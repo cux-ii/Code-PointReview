@@ -1,7 +1,7 @@
 # 内存布局
 
 
-![风景图](https://pics2.baidu.com/feed/8cb1cb13495409238b1819b76b34d206b2de4905.jpeg@f_auto?token=5865ba2becf2b34305f7543d77161837)
+![风景图](https://baidu.com)
 
 ## 内存管理方案
  - 实例方法调用时，通过对象的 isa 在类中获取方法的实现
