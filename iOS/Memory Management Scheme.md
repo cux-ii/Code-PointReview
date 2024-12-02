@@ -1,6 +1,6 @@
 # 内存布局
 
-![结构脉络](./images/ss.png)
+
 ![风景图](https://pics2.baidu.com/feed/8cb1cb13495409238b1819b76b34d206b2de4905.jpeg@f_auto?token=5865ba2becf2b34305f7543d77161837)
 
 ## 内存管理方案
@@ -36,3 +36,5 @@ YYObject *yy = [[YYObject alloc] init]
 objc_msgSend(xx, @selector(hello))
 objc_msgSend(yy, @selector(hello))
 ```
+
+![结构脉络](./images/Block.png)
